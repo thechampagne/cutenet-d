@@ -1,0 +1,5 @@
+name "cutenet"
+description "Binding for cutenet a networking library for games requiring an optional reliability layer over UDP with a baked in security scheme"
+authors "XXIV"
+copyright "Copyright © 2023, XXIV"
+license "zlib"
